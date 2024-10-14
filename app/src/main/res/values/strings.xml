@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animals Images Show</string>
+    <string name="button_1_cat">Button 1 cat</string>
+    <string name="button_2_dog">button_2_Dog</string>
+    <string name="button_3_tiger">button_3_tiger</string>
+    <string name="button_4_horse">button_4_Horse</string>
+    <string name="button_1_Cat">button_1_Cat</string>
+    <string name="button_3_Tiger">button_3_Tiger</string>
+</resources>
